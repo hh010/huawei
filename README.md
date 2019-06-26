@@ -7,6 +7,7 @@
 华为认证HCNA-UC统一通信（H11-811）题库 </br>
 华为认证HCNA-WLAN无线（H12-311）题库</br>
 华为认证HCNA-Security安全（H12-711）题库</br>
+华为认证HCNA-Big Data大数据（H13-711）题库</br>
 # HCNP
 华为认证HCNP-R&S(H12-221) 中文题库V2.0</br>
 华为认证HCNP-R&S(H12-222) 中文题库V2.0</br>
